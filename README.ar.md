@@ -151,7 +151,7 @@ sudo dnf install -y fuse fuse-libs
 المتطلبات: Node.js 20+ و npm.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zeyad-devops-command.git
+git clone https://github.com/zeyadzero/ZeyadDevOpsCommand.git
 cd zeyad-devops-command
 npm install
 
