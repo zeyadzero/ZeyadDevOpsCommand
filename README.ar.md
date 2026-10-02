@@ -54,7 +54,7 @@
 
 ## التثبيت والتشغيل
 
-حمّل آخر ملف `Zeyad-DevOps-Command-<version>-x86_64.AppImage` من صفحة [**Releases**](../../releases):
+حمّل آخر ملف `Zeyad-DevOps-Command-2.0.1-x86_64.AppImage` من صفحة [**Releases**](../../releases):
 
 ```bash
 chmod +x Zeyad-DevOps-Command-*-x86_64.AppImage
