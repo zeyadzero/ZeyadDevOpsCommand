@@ -181,7 +181,7 @@ Plus **89 file templates**: Docker (Dockerfiles for Node, Python, Go, Java, PHP,
 Requirements: Node.js 20+ and npm.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zeyad-devops-command.git
+git clone https://github.com/zeyadzero/ZeyadDevOpsCommand.git
 cd zeyad-devops-command
 npm install
 
