@@ -232,7 +232,7 @@ add("Category", "Name in English|الاسم بالعربي", "filename.yaml", ["
 
 ## الترخيص
 
-[MIT](LICENSE) © 2026 Zeyad
+[MIT](LICENSE) © 2026 Zeyad Hossam
 
 *أسماء Docker وKubernetes وRed Hat وOpenShift وAnsible وTerraform وJenkins وArgo وغيرها علامات تجارية لأصحابها. المشروع مستقل وغير تابع لهم.*
 
