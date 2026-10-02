@@ -76,7 +76,7 @@ Zeyad DevOps Command turns every command into a small **builder**. Tick the opti
 
 ### Download
 
-Grab the latest `Zeyad-DevOps-Command-<version>-x86_64.AppImage` from the [**Releases**](../../releases) page, then:
+Grab the latest `Zeyad-DevOps-Command-2.0.1-x86_64.AppImage` from the [**Releases**](../../releases) page, then:
 
 ```bash
 chmod +x Zeyad-DevOps-Command-*-x86_64.AppImage
