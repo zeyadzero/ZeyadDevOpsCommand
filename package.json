@@ -26,14 +26,14 @@
     "appimage",
     "cli"
   ],
-  "author": "Zeyad <zeyad@example.com>",
+  "author": "Zeyad <zeyadzero250@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "electron": "^44.5.1",
     "electron-builder": "^26.15.3"
   },
   "productName": "Zeyad DevOps Command",
-  "homepage": "https://github.com/YOUR_USERNAME/zeyad-devops-command#readme",
+  "homepage": "https://github.com/zeyadzero/ZeyadDevOpsCommand#readme",
   "build": {
     "appId": "com.zeyad.devopscommand",
     "productName": "Zeyad DevOps Command",
@@ -61,9 +61,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/zeyad-devops-command.git"
+    "url": "git+https://github.com/zeyadzero/ZeyadDevOpsCommand.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/zeyad-devops-command/issues"
+    "url": "https://github.com/zeyadzero/ZeyadDevOpsCommand/issues"
   }
 }
