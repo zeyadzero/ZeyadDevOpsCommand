@@ -281,7 +281,7 @@ Found a wrong flag or a broken install command? Please [open an issue](../../iss
 
 ## License
 
-[MIT](LICENSE) © 2026 Zeyad
+[MIT](LICENSE) © 2026 Zeyad Hossam
 
 *Docker, Kubernetes, Red Hat, OpenShift, Ansible, Terraform, Jenkins, Argo and other names are trademarks of their respective owners. This project is independent and not affiliated with or endorsed by them.*
 
